@@ -1,36 +1,23 @@
-# Hi, I'm edvatar 👋
+# edvatar
 
-**Senior AI Engineer | M.Math**
+I've been building ML systems for about a decade now. Started in computer vision, took detours through causal inference and marketing analytics, and now I'm deep in LLM-based systems — mostly multi-agent architectures and RAG pipelines. UWaterloo math background.
 
-I build AI systems that ship to production and move business metrics. 10+ years across ML, NLP, computer vision, and now multi-agent LLM architectures.
+## What I work on
 
-## What I Do
+Production AI systems — the unglamorous kind where you spend more time on data pipelines and evaluation than on model architecture. Currently doing a lot with retrieval-augmented generation and multi-agent orchestration. Before that, spent years on causal inference (MMM, incrementality testing) and classical ML.
 
-🤖 **Multi-Agent LLM Systems** — Completemulti-agent workflows for document processing, knowledge extraction, and automated reporting  
+## Stack
 
-🔍 **RAG & Knowledge Graphs** — Enterprise retrieval-augmented generation across thousands of documents, combining vector search with graph-based reasoning (Neo4j + MCP)  
+Python · PyTorch · LlamaIndex · LangChain · Neo4j · PySpark · Docker · Azure/GCP · Go · SQL
 
-📊 **Causal Inference & ML** — Marketing mix models, incrementality testing (DID), Bayesian forecasting, and propensity modeling  
+## What I'm poking at lately
 
-👥 **Technical Leadership** — Led teams of up to 7, maintained highest employee retention, shipped systems saving 20,000+ hours of manual work  
+- Implementing RAPTOR (recursive abstractive processing for tree-organized retrieval) from the Sarthi et al. paper to see if hierarchical summarization actually helps on messy enterprise docs
+- Experimenting with DSPy for prompt optimization instead of hand-tuning
+- Reading through the Causal Forests paper again — want to apply GRF to some uplift modeling stuff
 
-## Highlights
+## Misc
 
-- Built RAG systems achieving **2× performance** over baseline enterprise solutions  
-- Drove ROI from **1.2 → 3.0** through ML-powered targeting and optimization  
-- Migrated legacy analytics to Spark — **$500K/day revenue lift**, 30× faster runtime  
-- Deployed **20+ ML models** to production using standardized DevOps pipelines  
+I have mass opinions about evaluation metrics and why most RAG benchmarks are garbage. Also into bouldering, bad chess, and collecting mechanical keyboards I don't need.
 
-## Tech Stack
-
-**LLM/AI:** LlamaIndex · LangChain · Claude · OpenAI · RAG · Multi-Agent · Neo4j · MCP  
-**ML:** PyTorch · TensorFlow · Scikit-learn · PySpark · Prophet · CausalML  
-**Cloud:** Azure · GCP · AWS · Docker · Terraform · CI/CD  
-**Languages:** Python · SQL · Go · JavaScript/TypeScript  
-
-## Currently Exploring
-
-- Multi-agent orchestration patterns for enterprise workflows  
-- Knowledge graphs + LLMs for structured reasoning  
-- Causal inference meets ML  
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-edvatar-blue?logo=linkedin)](https://www.linkedin.com/in/edvatar)
