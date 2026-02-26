@@ -20,4 +20,3 @@ Python · PyTorch · LlamaIndex · LangChain · Neo4j · PySpark · Docker · Az
 
 I have mass opinions about evaluation metrics and why most RAG benchmarks are garbage. Also into bouldering, bad chess, and collecting mechanical keyboards I don't need.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-edvatar-blue?logo=linkedin)](https://www.linkedin.com/in/edvatar)
