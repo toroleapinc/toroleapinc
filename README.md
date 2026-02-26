@@ -1,6 +1,6 @@
 # Hi, I'm edvatar 👋
 
-**Senior AI Engineer | M.Math, University of Waterloo**
+**Senior AI Engineer | M.Math**
 
 I build AI systems that ship to production and move business metrics. 10+ years across ML, NLP, computer vision, and now multi-agent LLM architectures.
 
@@ -34,6 +34,3 @@ I build AI systems that ship to production and move business metrics. 10+ years 
 - Knowledge graphs + LLMs for structured reasoning  
 - Causal inference meets ML  
 
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/eddie-liang-14503a170)
